@@ -1,0 +1,12 @@
+{
+  "name": "jsguru",
+  "license": "MPL-2.0",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

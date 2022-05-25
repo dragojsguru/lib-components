@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "./config"
+    },
+    {
+      "path": "./components"
+    },
+    {
+      "path": "./components-react"
+    }
+  ]
+}
