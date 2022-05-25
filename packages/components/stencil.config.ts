@@ -6,7 +6,7 @@ export const config: Config = {
   namespace: 'components',
   outputTargets: [
     reactOutputTarget({
-      componentCorePackage: '@jsguru/components',
+      componentCorePackage: '@jsguru-design/components',
       proxiesFile: '../components-react/src/components.ts',
       includeDefineCustomElements: true
     }),
