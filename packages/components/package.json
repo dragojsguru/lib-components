@@ -35,5 +35,6 @@
     "jest-cli": "^27.4.5",
     "puppeteer": "^10.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "bdad95e84a454f3b7c8c7551f85f45bd2562aa32"
 }
