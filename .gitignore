@@ -1,9 +1,7 @@
 node_modules/
 packages/components/node_modules/
 packages/components-react/node_modules/
-dist/
 www/
-loader/
 *~
 *.sw[mnpcod]
 *.log
