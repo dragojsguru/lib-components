@@ -1,5 +1,5 @@
 {
-  "name": "@jsguru-design/components-react",
+  "name": "@jsgurucompany/components-react",
   "sideEffects": false,
   "version": "4.0.0",
   "private": false,
@@ -48,5 +48,5 @@
       "dist"
     ]
   },
-  "gitHead": "775c8ede223ab3eed03c4448afc548c6c7e40750"
+  "gitHead": "755288a8774810c826142b8cc3e3a221602d2730"
 }
